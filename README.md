@@ -1,5 +1,7 @@
 wsq2jpeg - A Wavelet Scalar Quantization algorithm (WSQ) conversion library
 ===========================
+Please download the files in ./third_party separately!!!!!!!!!!!
+
 Is a library to convert wsq images to jpeg format and vice versa. Allows individual or batch processing. Only supports images in grayscale. 
 # Building form sources
 ## Pre-requisites
