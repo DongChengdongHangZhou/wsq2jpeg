@@ -12,7 +12,6 @@ Is a library to convert wsq images to jpeg format and vice versa. Allows individ
 ### Linux
 ```sh
  $ git clone https://github.com/rnhdev/wsq2jpeg
- $ git submodule update --init
  $ cd third_party/nbis
  ./setup.sh . --without-X11 --64
  $ make config && make it
